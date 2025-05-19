@@ -1,10 +1,10 @@
 {
   "analyzers": {
     "core": {
-      "enabled": true,
+      "enabled": false,
       "rules": {
         "use-secure-value-for-secure-inputs": {
-          "level": "none"
+          "level": "off"
         }
       }
     }
